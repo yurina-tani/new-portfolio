@@ -162,7 +162,7 @@ img {
     font-weight: bold;
 }
 
-.button {
+.menu-icon {
     width: 60px;
 }
 
@@ -646,14 +646,16 @@ img {
 .slick-dots button {
     color: transparent;
     outline: none;
-    width: 8px;
+    width: 9px;
     /*ドットボタンのサイズ*/
-    height: 8px;
+    height: 9px;
     /*ドットボタンのサイズ*/
     display: block;
     border-radius: 50%;
     background: #ccc;
     /*ドットボタンの色*/
+    padding: 0;
+    border: none;
 }
 
 .slick-dots .slick-active button {
