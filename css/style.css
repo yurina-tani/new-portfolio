@@ -234,7 +234,7 @@ img {
     border-right: 1px solid #333;
 }
 
-#container {
+.container {
     padding: 0 70px 0 140px;
 }
 
@@ -722,7 +722,7 @@ img {
         background: none;
     }
     
-    #container {
+    .container {
         padding: 0;
         width: 318px;
         margin: 0 auto;
