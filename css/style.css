@@ -711,9 +711,15 @@ img {
     html {
         font-size: 14px;
     }
-
+    .openbtn {
+        right: 0;
+        width: 60px;
+        height: 60px;
+        border: none;
+    }
+    
     #container {
-        padding: 0 0 0 50px;
+        padding: 0;
         width: 318px;
         margin: 0 auto;
     }
